@@ -5,22 +5,7 @@
     <h3 align="center">SmartPing | 开源、高效、便捷的网络质量监控神器</h3>
     <p align="center">
         一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
-        <br>
-      
-        <br>
-        <br>
-        <a href="https://www.travis-ci.org/smartping/smartping">
-            <img src="https://www.travis-ci.org/smartping/smartping.svg?branch=master" >
-        </a>
-        <a href="https://goreportcard.com/report/github.com/smartping/smartping">
-            <img src="https://goreportcard.com/badge/github.com/smartping/smartping" >
-        </a>
-         <a href="https://github.com/smartping/smartping/releases">
-             <img src="https://img.shields.io/github/release/smartping/smartping.svg" >
-         </a>
-         <a href="https://github.com/smartping/smartping/blob/master/LICENSE">
-             <img src="https://img.shields.io/hexpm/l/plug.svg" >
-         </a>
+    
     </p>    
 </p>
 
