@@ -6,7 +6,7 @@
     <p align="center">
         一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
         <br>
-        <a href="http://smartping.org"><strong>-- Browse website --</strong></a>
+      
         <br>
         <br>
         <a href="https://www.travis-ci.org/smartping/smartping">
@@ -38,17 +38,4 @@
 
 ![app-bg.jpg](http://smartping.org/assets/img/app-bg.png "")
 
-## 技术交流
-
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=dd689e43fd8ecfeb28bffc31d53cb058c6ea23263aa1a34fc032efaf91aae924"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="SmartPing" title="SmartPing"></a>
-
-## 项目贡献
-
-欢迎参与项目贡献！比如提交PR修复一个bug，或者新建 [Issue](https://github.com/smartping/smartping/issues/) 讨论新特性或者变更。
-
-## 其他资料 ##
-
-- 官网： http://smartping.org
-- 文档： https://docs.smartping.org
-- - 下载安装：https://docs.smartping.org/install/
-- - API文档：https://docs.smartping.org/api/
+源码来源https://github.com/smartping/smartping
